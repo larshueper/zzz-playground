@@ -1,6 +1,6 @@
 {
   "name": "@tecracer/zzz-playground",
-  "version": "0.0.3-0",
+  "version": "0.0.3",
   "description": "Just for playing",
   "main": "index.js",
   "scripts": {
