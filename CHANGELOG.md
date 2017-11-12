@@ -2,7 +2,9 @@
 
 ## [Unreleased]
 
-- preparing version 0.0.4
+## 0.0.4
+
+- version 0.0.4 doesn't contain 0.0.4-1 and 0.0.4-2 files
 
 ## 0.0.3
 
