@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+- The first major release is coming...
+
 ## 0.0.5
 
 - verson 0.0.5 is on the way...
