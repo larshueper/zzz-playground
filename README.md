@@ -45,6 +45,3 @@ npm view @tecracer/zzz-playground versions
 '0.0.5',
 '1.0.0-0' ]
 ```
-
-## Login mit Token statt Username/Password
-`export NPM_TOKEN="229b1152-514d-40ce-8bab-c5823331e61f"`
